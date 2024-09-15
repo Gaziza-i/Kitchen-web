@@ -330,6 +330,10 @@
   height: 413px;
 }
 
+.soc1als-block a {
+  text-decoration: none;
+}
+
 .footer-top-wrapper {
   padding: 60px;
   padding-bottom: 0;
